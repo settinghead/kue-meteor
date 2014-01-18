@@ -1,5 +1,5 @@
 Npm.depends({
-    'kue': '0.6.2' // Where x.x.x is the version, e.g. 0.3.2
+    'kue': '0.6.2'
 });
 
 Package.on_use(function (api) {
