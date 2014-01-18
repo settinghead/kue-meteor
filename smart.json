@@ -1,6 +1,6 @@
 {
   "name": "kue",
-  "description": "Kue for Meteor",
+  "description": "Kue wrapper for Meteor",
   "homepage": "https://github.com/settinghead/kue-meteor.git",
   "author": "Xiyang Chen (https://github.com/settinghead), Tom Coleman (https://github.com/tmeasday)",
   "version": "0.6.2",
