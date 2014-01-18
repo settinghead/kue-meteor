@@ -1,1 +1,1 @@
-Foobar = Npm.require("foobar");
+Kue = Npm.require("kue");
