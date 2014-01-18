@@ -1,0 +1,1 @@
+Foobar = Npm.require("foobar");
