@@ -11,3 +11,7 @@ The global variable ```Kue``` is available to use anywhere in the code. For exam
 ```javascript
 var jobs = Kue.createQueue();
 ```
+Alternatively, use
+```javascript
+var jobs = Npm.require('kue').createQueue();
+```
