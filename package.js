@@ -1,5 +1,5 @@
 Npm.depends({
-    'kue': '0.6.2'
+    'kue': '0.7.4'
 });
 
 Package.on_use(function (api) {
