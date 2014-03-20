@@ -3,6 +3,6 @@
   "description": "Kue, the priority job queue for node.js backed by redis",
   "homepage": "https://github.com/settinghead/kue-meteor.git",
   "author": "Xiyang Chen (https://github.com/settinghead)",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "git": "https://github.com/settinghead/kue-meteor.git"
 }
